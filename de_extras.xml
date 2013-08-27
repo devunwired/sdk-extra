@@ -8,8 +8,8 @@
 		<sdk:path>m2repository</sdk:path>
 		<sdk:archives>
 			<sdk:archive arch="any" os="any">
-				<sdk:size>164190</sdk:size>
-				<sdk:checksum type="sha1">b9b60abbdfb0484eb803ced33a80c354dfef8486</sdk:checksum>
+				<sdk:size>163209</sdk:size>
+				<sdk:checksum type="sha1">9bad25a4b98c0f525c1d152ad2ceaaff762cc9b4</sdk:checksum>
 				<sdk:url>de_repository_r01.zip</sdk:url>
 			</sdk:archive>
 		</sdk:archives>
