@@ -1,0 +1,17 @@
+<sdk:sdk-addon xmlns:sdk="http://schemas.android.com/sdk/android/addon/5" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<sdk:extra>
+		<sdk:revision>1</sdk:revision>
+		<sdk:vendor-display>Double Encore</sdk:vendor-display>
+		<sdk:vendor-id>android</sdk:vendor-id>
+		<sdk:name-display>DE Support Repository</sdk:name-display>
+		<sdk:description>Local Maven repository for DE Libraries</sdk:description>
+		<sdk:path>m2repository</sdk:path>
+		<sdk:archives>
+			<sdk:archive arch="any" os="any">
+				<sdk:size>164190</sdk:size>
+				<sdk:checksum type="sha1">b9b60abbdfb0484eb803ced33a80c354dfef8486</sdk:checksum>
+				<sdk:url>de_repository_r01.zip</sdk:url>
+			</sdk:archive>
+		</sdk:archives>
+	</sdk:extra>
+</sdk:sdk-addon>
