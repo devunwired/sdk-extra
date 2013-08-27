@@ -2,7 +2,7 @@
 	<sdk:extra>
 		<sdk:revision>1</sdk:revision>
 		<sdk:vendor-display>Double Encore</sdk:vendor-display>
-		<sdk:vendor-id>android</sdk:vendor-id>
+		<sdk:vendor-id>doubleencore</sdk:vendor-id>
 		<sdk:name-display>DE Support Repository</sdk:name-display>
 		<sdk:description>Local Maven repository for DE Libraries</sdk:description>
 		<sdk:path>m2repository</sdk:path>
